@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "676caa46c6346b85954eeb86"
+  },
+  "nama": "Dazai Osamu",
+  "alamat": "Tokyo n.82",
+  "phoneNumber": 89762526382,
+  "email": "osamu@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "676caa46c6346b85954eeb87"
+  },
+  "nama": "Naomi",
+  "alamat": "Tokyo no.2",
+  "phoneNumber": 897622022922,
+  "email": "Naomi@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "676caa46c6346b85954eeb88"
+  },
+  "nama": "Keiko",
+  "alamat": "Shibuya no.12",
+  "phoneNumber": 89767363582,
+  "email": "keiko@gmail.com"
+}]

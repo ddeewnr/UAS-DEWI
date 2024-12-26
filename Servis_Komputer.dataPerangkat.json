@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "676cab45c6346b85954eeb89"
+  },
+  "jenisPerangkat": "Laptop",
+  "merek": "Asus",
+  "noSeri": 80,
+  "pemilik": "Dazai Osamu"
+},
+{
+  "_id": {
+    "$oid": "676cab45c6346b85954eeb8a"
+  },
+  "jenisPerangkat": "Laptop",
+  "merek": "Lenovo",
+  "noSeri": 1142,
+  "pemilik": "Keiko"
+},
+{
+  "_id": {
+    "$oid": "676cab45c6346b85954eeb8b"
+  },
+  "jenisPerangkat": "Handphone",
+  "merek": "Oppo",
+  "noSeri": 2561,
+  "pemilik": "Naomi"
+}]

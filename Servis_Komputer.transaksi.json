@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "676cac4dc6346b85954eeb8c"
+  },
+  "namaPelanggan": "Dazai Osamu",
+  "perangkat": "Laptop",
+  "jenisLayanan": "Perbaikan Keyboard",
+  "biaya": 300,
+  "status": "Selesai"
+},
+{
+  "_id": {
+    "$oid": "676cac4dc6346b85954eeb8d"
+  },
+  "namaPelanggan": "Keiko",
+  "perangkat": "Laptop",
+  "jenisLayanan": "Upgrade dan perbaikan laptop",
+  "biaya": 600,
+  "status": "Proses"
+},
+{
+  "_id": {
+    "$oid": "676cac4dc6346b85954eeb8e"
+  },
+  "namaPelanggan": "Naomi",
+  "perangkat": "Handphone",
+  "jenisLayanan": "Perbaikan LCD",
+  "biaya": 1500,
+  "status": "Dibatalkan"
+}]
